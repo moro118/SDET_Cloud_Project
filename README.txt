@@ -6,7 +6,7 @@ I developed a Cloud-Based Audit Management System using Node.js and MongoDB Atla
 
 The purpose of writing this software was to gain hands-on experience with Cloud Connectivity, Document-based data modeling, and handling asynchronous network operations within restricted infrastructure environments.
 
-https://byupathwayworldwideprod-my.sharepoint.com/:v:/g/personal/mvillalobosortega_byupathway_edu/IQDaG8G6y0rMSZEBtzXWUHv7AWLSs6VBmbmzyrUEtj6chms?e=D5JUc6
+https://drive.google.com/file/d/1cSn1uQ7eNq0VDaVjUu8cEkDwbga4ErNb/view?usp=drive_link
 
 # Cloud Database
 
